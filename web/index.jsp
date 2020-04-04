@@ -15,6 +15,8 @@
   <br>
   <a href="customer/list">Go to customer list</a>
   <br>
-  <a href="customer/showAddCustomerForm">Go to homepage</a>
+  <a href="restaurant/list">Go to restaurant list</a>
+  <br>
+  <a href="home">Go to homepage</a>
   </body>
 </html>
